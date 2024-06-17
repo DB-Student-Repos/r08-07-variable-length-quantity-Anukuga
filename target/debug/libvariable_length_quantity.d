@@ -1,0 +1,1 @@
+/Users/anusuyakugavarathan/Programming/RUST_PROJECTS/r08-07-variable-length-quantity-Anukuga/target/debug/libvariable_length_quantity.rlib: /Users/anusuyakugavarathan/Programming/RUST_PROJECTS/r08-07-variable-length-quantity-Anukuga/src/lib.rs
